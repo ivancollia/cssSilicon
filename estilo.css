@@ -1,0 +1,16 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    padding: 20px;
+    width: 10%;
+    border-radius: 50%;
+}
+.presentacion{
+    text-align: center;
+}
+.links{
+    text-align: center;
+}
